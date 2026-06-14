@@ -1,5 +1,23 @@
 # R General Functions
-Contains my own general functions in R. 
+Contains my own general functions in R. I will also list my current RStudio shortcuts here.
+
+
+
+## Current Shortcuts
+### Panel Navigation:
+Ctrl + Shift + 1 = Focus to Editor\
+Ctrl + Shift + 2 = Focus to Console\
+Ctrl + Shift + 3 = Focus to Help\
+Ctrl + Shift + 4 = Focus to Plot\
+Ctrl + Shift + 5 = Focus to Variables/Environment\
+Ctrl + Shift + 6 = Focus to History
+
+### Other:
+Ctrl + Shift + Z = Comment/Uncomment Section\
+Ctrl + Enter = Run Code\
+Ctrl + R = Find and replace text\
+Ctrl + Shift + R = Insert Roxygen Skeleton
+
 
 
 ## Current Functions:
