@@ -10,13 +10,19 @@ Ctrl + Shift + 2 = Focus to Console\
 Ctrl + Shift + 3 = Focus to Help\
 Ctrl + Shift + 4 = Focus to Plot\
 Ctrl + Shift + 5 = Focus to Variables/Environment\
-Ctrl + Shift + 6 = Focus to History
+Ctrl + Shift + 6 = Focus to History\
+Ctrl + Shift + X = Switch focus between Editor/Console
+
 
 ### Other:
 Ctrl + Shift + Z = Comment/Uncomment Section\
 Ctrl + Enter = Run Code\
 Ctrl + R = Find and replace text\
-Ctrl + Shift + R = Insert Roxygen Skeleton
+Ctrl + Shift + R = Insert Roxygen Skeleton\
+Alt + L = Collapse selected sections
+
+### Not Shortcut Key:
+*{In editor} header+tab = Automatically opens up a default document header in R-style with two optional parameters
 
 
 
