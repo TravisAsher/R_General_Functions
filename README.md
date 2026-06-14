@@ -1,2 +1,2 @@
-# R_General_Functions
-Contains general functions that I have created in R
+# R General Functions
+Contains my own general functions in R. 
