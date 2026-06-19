@@ -17,12 +17,19 @@ Ctrl + Shift + X = Switch focus between Editor/Console
 ### Other:
 Ctrl + Shift + Z = Comment/Uncomment Section\
 Ctrl + Enter = Run Code\
+Alt + Enter = Run Current Line and Advance\
 Ctrl + R = Find and replace text\
 Ctrl + Shift + R = Insert Roxygen Skeleton\
+Ctrl + Shift + F = Insert a Section\
 Alt + L = Collapse selected sections
 
 ### Not Shortcut Key:
 *{In editor} header+tab = Automatically opens up a default document header in R-style with two optional parameters
+
+### Useful Packages:
+tidyverse: for useful organizational functions; includes: dplyr, tibbles, etc
+
+
 
 
 
